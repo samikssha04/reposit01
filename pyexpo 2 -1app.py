@@ -1,11 +1,11 @@
 import streamlit as st
 import random
 import math
-st.title("My Portfolio")
-st.markdown(" <p style = 'color: black;font-family:lucida comsole;'> NAME:JEEVAMBIGAI K</p>",unsafe_allow_html=True)
+st.title("Portfolio")
+st.markdown(" <p style = 'color: black;font-family:lucida comsole;'> NAME:SREE SOUJANYA  K</p>",unsafe_allow_html=True)
 st.markdown("<p style = 'color: black;font-family:lucida console;'> COLLEGE : KGISL Institute of Technology </p>",unsafe_allow_html=True)
 st.markdown("<p style = 'color: black;font-family:lucida console;'>DEPARTMENT: B.E. Computer Science and Engineering</p>",unsafe_allow_html=True)
-st.markdown("<p style = 'color : black; font-family:lucida console';>ROLL NO: 24UCS141</p>",unsafe_allow_html=True)
+st.markdown("<p style = 'color : black; font-family:lucida console';>ROLL NO: 24UCS243</p>",unsafe_allow_html=True)
 
 
 st.markdown(
